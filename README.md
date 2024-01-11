@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="left">My name is Syed Tameemuddin Khadri</h1>
+<h2 align="left">My name is Syed Tameemuddin Khadri</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
